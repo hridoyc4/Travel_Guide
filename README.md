@@ -132,3 +132,5 @@ Environment:
 activate the environment conda activate travel
 
 install requirements pip install -r requirements.txt
+
+Final rendering cloud -> https://travel-guide-i5a5.onrender.com/
